@@ -106,7 +106,8 @@ a {
     margin-top: 28px;
     background:url(https://cdn.icon-icons.com/icons2/2440/PNG/512/phone_call_icon_148513.png) no-repeat;
     cursor: pointer;
-    background-size: 30px; 
+    background-size: 30px;
+    padding-left: 30px; 
     font-size: 14px;
     color: #00f;
     line-height: 30px;
